@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "next": "^15.1.5"
+  },
+  "name": "hello-santri-next",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "next build",
+    "start": "next start",
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
